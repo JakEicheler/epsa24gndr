@@ -4,6 +4,8 @@ library(tidyverse)
 library(gender)
 
 #Set Working Directory
+# In this directory, you should put Ben's data: 
+# https://github.com/benjaminguinaudeau/epsa2024/blob/main/epsa_program.xlsx
 setwd("")
 
 #Read in Ben's data
